@@ -30,6 +30,27 @@
     .quick-notes li {
         flex-basis: 50%;
     }
+
+    /* Fix 6: I bottoni social si allargano */ 
+    .social-networks i {
+        padding: 0px 30px;
+        font-size: 25px;
+    }
+
+    /* Fix 7: Compare il banner pubblicitario */ 
+    .ads {
+        display: block;
+    }
+
+    /* Fix 8: L'immagine nella descrizione della ricetta viene circondata dal testo */
+    .clearfix img {
+        float:left;
+        margin: 8px 8px 0 auto;;
+    }
+
+
+
+
 }
 
 
