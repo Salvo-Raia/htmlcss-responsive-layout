@@ -47,14 +47,47 @@
         float:left;
         margin: 8px 8px 0 auto;;
     }
-
-
-
-
 }
 
-
 /* Media Query Desktop */
-@media screen and (main-width:992px) {
+@media screen and (min-width:992px) {
+    /* Fix 1: La grandezza el titolo della ricetta aumenta ancora di più */
+      .recipe-name {
+        font-size: 2.5rem;             
+    }
+
+    /* Fix 2: Le informazioni della ricetta tornano a disporsi una sotto l'altra */
+    .quick-notes ul {
+         display: block;
+    }
+
+    /* Fix 3: Il video e le altre informazioni della ricetta si dispongono uno accanto all'altro */
+    .recipe-card {
+        display: flex;
+    }
+
+    .recipe-video {
+        aspect-ratio: 16/9;
+        height: 50%;
+        flex-grow: 1;
+    }
+
+    /* Fix 4: Compaiono i nomi delle piattaforme social */
+    .btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-basis: calc(100% / 5);
+        gap: 10px;
+    }
+
+    .btn i {
+        font-size: 15px;
+        padding: 0;
+    }
+
+    .btn .label {
+        display: inline;
+    }
 
 }
