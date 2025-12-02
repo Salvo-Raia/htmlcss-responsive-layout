@@ -1,12 +1,34 @@
 
+/* Media Query Large Mobile */
+@media screen and (min-width:576px) {
+
+    /* Fix 1: l'immagine nella descrizione della ricetta 
+       viene circondata dal testo anche su mobile ma solo 
+       se c'è spazio sufficiente, quindi a partire da 576px */
+    .clearfix img {
+        float:left;
+        margin: 8px 8px 0 auto;;
+    }
+
+    /* Fix 2: I bottoni social si allagano già su 
+       dispositivi mobile più grandetti (576px) */
+      .social-networks i {
+        padding: 0px 20px;
+        font-size: 20px;
+    }
+
+}
+
 /* Media Query Tablet */
 @media screen and (min-width:768px) {
+
     /* Fix 1: Il logo nell'header si allinea a sinistra */
     #topbar {
         justify-content: flex-start;
     }
 
-    /* Fix 2: Il padding del contenuto principale della pagina aumenta */
+    /* Fix 2: Il padding del contenuto principale 
+       della pagina aumenta */
     main {
         padding: 50px;
     }
@@ -21,7 +43,8 @@
         font-size: 2rem;             
     }
 
-    /* Fix 5: Le informazioni della ricetta sotto il video si dispongono a griglia */
+    /* Fix 5: Le informazioni della ricetta sotto il 
+       video si dispongono a griglia */
     .quick-notes ul {
         display: flex;
         flex-wrap: wrap;
@@ -31,37 +54,37 @@
         flex-basis: 50%;
     }
 
-    /* Fix 6: I bottoni social si allargano */ 
-    .social-networks i {
-        padding: 0px 30px;
-        font-size: 25px;
-    }
+    /* Fix 6: I bottoni social si allargano.
+       Già presnete in Fix 2 di Large Mobile (576px) */
 
     /* Fix 7: Compare il banner pubblicitario */ 
     .ads {
         display: block;
     }
 
-    /* Fix 8: L'immagine nella descrizione della ricetta viene circondata dal testo */
-    .clearfix img {
-        float:left;
-        margin: 8px 8px 0 auto;;
-    }
+    /* Fix 8: L'immagine nella descrizione della 
+       ricetta viene circondata dal testo.      
+       Già presente in Fix 1 di Large Mobile (576px) */
+
 }
 
 /* Media Query Desktop */
 @media screen and (min-width:992px) {
-    /* Fix 1: La grandezza el titolo della ricetta aumenta ancora di più */
+
+    /* Fix 1: La grandezza el titolo della ricetta aumenta 
+       ancora di più */
       .recipe-name {
         font-size: 2.5rem;             
     }
 
-    /* Fix 2: Le informazioni della ricetta tornano a disporsi una sotto l'altra */
+    /* Fix 2: Le informazioni della ricetta tornano a 
+       disporsi una sotto l'altra */
     .quick-notes ul {
          display: block;
     }
 
-    /* Fix 3: Il video e le altre informazioni della ricetta si dispongono uno accanto all'altro */
+    /* Fix 3: Il video e le altre informazioni della 
+       ricetta si dispongono uno accanto all'altro */
     .recipe-card {
         display: flex;
     }
@@ -90,7 +113,9 @@
         display: inline;
     }
 
-    /* Fix 5: Nel footer i dati del sito e il menu di navigazione di dispongono sulla stessa linea ma su lati opposti */
+    /* Fix 5: Nel footer i dati del sito e il menu 
+       di navigazione di dispongono sulla stessa linea 
+       ma su lati opposti */
     footer {
         display: flex;
         justify-content: space-between;
