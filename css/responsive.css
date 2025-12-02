@@ -1,0 +1,39 @@
+
+/* Media Query Tablet */
+@media screen and (min-width:768px) {
+    /* Fix 1: Il logo nell'header si allinea a sinistra */
+    #topbar {
+        justify-content: flex-start;
+    }
+
+    /* Fix 2: Il padding del contenuto principale della pagina aumenta */
+    main {
+        padding: 50px;
+    }
+
+    /* Fix 3: Compare il testo "(Dolce Tradizionale)" */
+    .recipe-origin {
+        display: inline-block;
+    }
+
+    /* Fix 4: La grandezza del titolo diventa più grande */
+    .recipe-name {
+        font-size: 2rem;             
+    }
+
+    /* Fix 5: Le informazioni della ricetta sotto il video si dispongono a griglia */
+    .quick-notes ul {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .quick-notes li {
+        flex-basis: 50%;
+    }
+}
+
+
+/* Media Query Desktop */
+@media screen and (main-width:992px) {
+
+}
