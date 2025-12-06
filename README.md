@@ -2,7 +2,7 @@
 
 Nome repo: `htmlcss-responsive-layout`
 
-### Consegna
+## Consegna
 
 Oggi analizzeremo un sito in versione mobile, ma il cliente ci ha chiesto di renderlo responsive e adattarlo a tablet e desktop!
 Non potremo modificare il codice originale (né css, né html), ma potremo modificare il comportamento con un altro nostro file CSS!
