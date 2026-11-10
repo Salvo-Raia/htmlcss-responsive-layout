@@ -1,40 +1,71 @@
-# Esercizio: Giallo Booleano
+![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
 
-Nome repo: `htmlcss-responsive-layout`
+# 🎓 Exercise 09/50 - Giallo Booleano
 
-## Consegna
+Making an existing mobile recipe website responsive for tablet and desktop screens using an additional CSS stylesheet.
 
-Oggi analizzeremo un sito in versione mobile, ma il cliente ci ha chiesto di renderlo responsive e adattarlo a tablet e desktop!
-Non potremo modificare il codice originale (né css, né html), ma potremo modificare il comportamento con un altro nostro file CSS!
+## 📌 Project Overview
 
-Analizziamo bene il sito ed il markup, poi proviamo ad accontentare le richieste del cliente come segue, aiutandoci con gli screenshot in allegato:
+| Property | Details |
+|:--|:--|
+| Repository | htmlcss-responsive-layout |
+| Category | Boolean Tech Academy |
+| Type | Exercise |
+| Exercise | 09/50 |
 
-**Modalità Tablet (sopra i 768px)**
+## 🎯 Assignment
 
-* ✅ Il logo nell'header si allinea a sinistra
-* ✅ Il padding del contenuto principale della pagina aumenta
-* ✅ Compare il testo "(Dolce Tradizionale)"
-* ✅ La grandezza del titolo diventa più grande
-* ✅ Le informazioni della ricetta sotto il video si dispongono a griglia
-* ✅ I bottoni social si allargano
-* ✅ Compare il banner pubblicitario
-* ✅ L'immagine nella descrizione della ricetta viene circondata dal testo
+Today we'll be working with a website in its mobile version. The client has asked us to make it responsive and adapt it to tablet and desktop screens!
 
-**Modalità Desktop(sopra i 992px)**
+We are not allowed to modify the original code (neither HTML nor CSS), but we can change its behavior by adding our own CSS file.
 
-* ✅ La grandezza el titolo della ricetta aumenta ancora di più
-* ✅ Le informazioni della ricetta tornano a disporsi una sotto l'altra
-* ✅ Il video e le altre informazioni della ricetta si dispongono uno accanto all'altro
-* ✅ Compaiono i nomi delle piattaforme social
-* ✅ Nel footer i dati del sito e il menu di navigazione di dispongono sulla stessa linea ma su lati opposti
+Carefully inspect the website and its markup, then implement the client's requirements using the reference screenshots provided.
 
-**Bonus**
-**Modalità Large Mobile (576px)**
+### 📱 Tablet Layout (above 768px)
 
-* ✅ l'immagine nella descrizione della ricetta viene circondata dal testo anche su mobile ma solo se c'è spazio sufficiente, quindi a partire da 576px
-* ✅ I bottoni social si allagano già su dispositivi mobile più grandetti (576px)
+- Align the header logo to the left.
+- Increase the padding of the main page content.
+- Display the text "(Dolce Tradizionale)".
+- Increase the title font size.
+- Arrange the recipe information below the video in a grid.
+- Make the social buttons wider.
+- Display the advertising banner.
+- Make the text wrap around the image in the recipe description.
 
-**Info**
-Il font utilizzato per il titolo è: 'Nerko One', cursive;
-Il font per il resto della pagina è: Montserrat, 'Helvetica Neue', sans-serif;
-L'indirizzo del video YT utilizzato è https://www.youtube.com/watch?v=JVT900H6s0g
+### 💻 Desktop Layout (above 992px)
+
+- Increase the recipe title font size even further.
+- Arrange the recipe information vertically again.
+- Position the video and the other recipe information side by side.
+- Display the names of the social media platforms.
+- Align the website information and navigation menu on opposite sides of the footer, on the same line.
+
+### ⭐ Bonus
+
+#### Large Mobile Layout (576px and above)
+
+- Make the text wrap around the image in the recipe description on mobile devices too, but only when there is enough space (starting at 576px).
+- Make the social buttons wider on larger mobile devices, starting at 576px.
+
+### 🔎 Additional Information
+
+- **Title font:** `Nerko One`, cursive.
+- **Body font:** `Montserrat`, `Helvetica Neue`, sans-serif.
+- [YouTube video](https://www.youtube.com/watch?v=JVT900H6s0g).
+
+## 🛠️ Technologies
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+
+## 💡 What I Learned
+
+- Making an existing website responsive without modifying its original HTML or CSS files.
+- Using CSS media queries to adapt layouts to different screen sizes.
+- Managing tablet and desktop breakpoints.
+- Changing element alignment, spacing and layout depending on the viewport.
+- Working with text wrapping around images.
+- Adapting grids and multi-column layouts across breakpoints.
+
+## ©️ Credits
+
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
