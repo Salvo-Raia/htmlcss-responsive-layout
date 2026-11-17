@@ -40,11 +40,13 @@ Carefully inspect the website and its markup, then implement the client's requir
 - Display the names of the social media platforms.
 - Align the website information and navigation menu on opposite sides of the footer, on the same line.
 
+---
+
 **Notes**
 
 - **Title font:** `Nerko One`, cursive.
 - **Body font:** `Montserrat`, `Helvetica Neue`, sans-serif.
-- **YouTube video**: https://www.youtube.com/watch?v=JVT900H6s0g
+- **YouTube video**: `https://www.youtube.com/watch?v=JVT900H6s0g`
 
 **Bonus**
 
