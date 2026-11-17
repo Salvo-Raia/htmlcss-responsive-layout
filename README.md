@@ -1,10 +1,10 @@
 ![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 09/50: Giallo Booleano
+# Exercise 09/50: Giallo Booleano
 
 Making an existing mobile recipe website responsive for tablet and desktop screens using an additional CSS stylesheet.
 
-## 📌 Project Overview
+## Project Overview
 
 | Property | Details |
 |:--|:--|
@@ -13,7 +13,7 @@ Making an existing mobile recipe website responsive for tablet and desktop scree
 | Type | Exercise |
 | Exercise | 09/50 |
 
-## 🎯 Assignment
+## Assignment
 
 Today we'll be working with a website in its mobile version. The client has asked us to make it responsive and adapt it to tablet and desktop screens!
 
@@ -40,24 +40,24 @@ Carefully inspect the website and its markup, then implement the client's requir
 - Display the names of the social media platforms.
 - Align the website information and navigation menu on opposite sides of the footer, on the same line.
 
-### 🔎 Notes
+**Notes**
 
 - **Title font:** `Nerko One`, cursive.
 - **Body font:** `Montserrat`, `Helvetica Neue`, sans-serif.
 - **YouTube video**: https://www.youtube.com/watch?v=JVT900H6s0g
 
-### ⭐ Bonus
+**Bonus**
 
 #### Large Mobile Layout (576px and above)
 
 - Make the text wrap around the image in the recipe description on mobile devices too, but only when there is enough space (starting at 576px).
 - Make the social buttons wider on larger mobile devices, starting at 576px.
 
-## 🛠️ Technologies
+## Technologies
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-## 💡 What I Learned
+## What I learned
 
 - Making an existing website responsive without modifying its original HTML or CSS files.
 - Using CSS media queries to adapt layouts to different screen sizes.
@@ -66,6 +66,6 @@ Carefully inspect the website and its markup, then implement the client's requir
 - Working with text wrapping around images.
 - Adapting grids and multi-column layouts across breakpoints.
 
-## ©️ Credits
+## Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025-2026).
