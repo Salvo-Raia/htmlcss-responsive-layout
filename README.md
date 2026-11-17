@@ -1,6 +1,6 @@
-![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 09/50 - Giallo Booleano
+# 🎓 Exercise 09/50: Giallo Booleano
 
 Making an existing mobile recipe website responsive for tablet and desktop screens using an additional CSS stylesheet.
 
@@ -21,7 +21,7 @@ We are not allowed to modify the original code (neither HTML nor CSS), but we ca
 
 Carefully inspect the website and its markup, then implement the client's requirements using the reference screenshots provided.
 
-### 📱 Tablet Layout (above 768px)
+#### Tablet Layout (above 768px)
 
 - Align the header logo to the left.
 - Increase the padding of the main page content.
@@ -32,7 +32,7 @@ Carefully inspect the website and its markup, then implement the client's requir
 - Display the advertising banner.
 - Make the text wrap around the image in the recipe description.
 
-### 💻 Desktop Layout (above 992px)
+#### Desktop Layout (above 992px)
 
 - Increase the recipe title font size even further.
 - Arrange the recipe information vertically again.
@@ -40,18 +40,18 @@ Carefully inspect the website and its markup, then implement the client's requir
 - Display the names of the social media platforms.
 - Align the website information and navigation menu on opposite sides of the footer, on the same line.
 
+### 🔎 Notes
+
+- **Title font:** `Nerko One`, cursive.
+- **Body font:** `Montserrat`, `Helvetica Neue`, sans-serif.
+- **YouTube video**: https://www.youtube.com/watch?v=JVT900H6s0g
+
 ### ⭐ Bonus
 
 #### Large Mobile Layout (576px and above)
 
 - Make the text wrap around the image in the recipe description on mobile devices too, but only when there is enough space (starting at 576px).
 - Make the social buttons wider on larger mobile devices, starting at 576px.
-
-### 🔎 Additional Information
-
-- **Title font:** `Nerko One`, cursive.
-- **Body font:** `Montserrat`, `Helvetica Neue`, sans-serif.
-- [YouTube video](https://www.youtube.com/watch?v=JVT900H6s0g).
 
 ## 🛠️ Technologies
 
@@ -68,4 +68,4 @@ Carefully inspect the website and its markup, then implement the client's requir
 
 ## ©️ Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
