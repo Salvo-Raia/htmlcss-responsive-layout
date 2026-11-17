@@ -21,7 +21,7 @@ We are not allowed to modify the original code (neither HTML nor CSS), but we ca
 
 Carefully inspect the website and its markup, then implement the client's requirements using the reference screenshots provided.
 
-#### Tablet Layout (above 768px)
+#### Tablet layout (above 768px)
 
 - Align the header logo to the left.
 - Increase the padding of the main page content.
@@ -32,7 +32,7 @@ Carefully inspect the website and its markup, then implement the client's requir
 - Display the advertising banner.
 - Make the text wrap around the image in the recipe description.
 
-#### Desktop Layout (above 992px)
+#### Desktop layout (above 992px)
 
 - Increase the recipe title font size even further.
 - Arrange the recipe information vertically again.
@@ -50,7 +50,7 @@ Carefully inspect the website and its markup, then implement the client's requir
 
 **Bonus**
 
-#### Large Mobile Layout (576px and above)
+Create a large mobile layout (576px and above)
 
 - Make the text wrap around the image in the recipe description on mobile devices too, but only when there is enough space (starting at 576px).
 - Make the social buttons wider on larger mobile devices, starting at 576px.
