@@ -4,14 +4,11 @@
 
 Making an existing mobile recipe website responsive for tablet and desktop screens using an additional CSS stylesheet.
 
-## Project Overview
+## Project overview
 
-| Property | Details |
-|:--|:--|
-| Repository | htmlcss-responsive-layout |
-| Category | Boolean Tech Academy |
-| Type | Exercise |
-| Exercise | 09/50 |
+| Repository | Project | Category | Main Focus | Exercise |
+|:--|:--|:--|:--|:--|
+| htmlcss-responsive-layout | Giallo Booleano | Exercise | CSS responsive design | 09/50 |
 
 ## Assignment
 
@@ -38,7 +35,7 @@ Carefully inspect the website and its markup, then implement the client's requir
 - Display the names of the social media platforms.
 - Align the website information and navigation menu on opposite sides of the footer, on the same line.
 
-#### Bonus
+#### Bonus challenge
 
 Create a large mobile layout (576px and above) and try to implement the following additional responsive behaviors.
 
