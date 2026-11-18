@@ -15,9 +15,7 @@ Making an existing mobile recipe website responsive for tablet and desktop scree
 
 ## Assignment
 
-Today we'll be working with a website in its mobile version. The client has asked us to make it responsive and adapt it to tablet and desktop screens!
-
-We are not allowed to modify the original code (neither HTML nor CSS), but we can change its behavior by adding our own CSS file.
+Today we'll be working with a website in its mobile version. The client has asked us to make it responsive and adapt it to tablet and desktop screens! We are not allowed to modify the original code (neither HTML nor CSS), but we can change its behavior by adding our own CSS file.
 
 Carefully inspect the website and its markup, then implement the client's requirements using the reference screenshots provided.
 
@@ -40,20 +38,18 @@ Carefully inspect the website and its markup, then implement the client's requir
 - Display the names of the social media platforms.
 - Align the website information and navigation menu on opposite sides of the footer, on the same line.
 
----
+#### Bonus
 
-**Notes**
+Create a large mobile layout (576px and above) and try to implement the following additional responsive behaviors.
+
+- Make the text wrap around the image in the recipe description on mobile devices too, but only when there is enough space (starting at 576px).
+- Make the social buttons wider on larger mobile devices, starting at 576px.
+
+##### Notes
 
 - **Title font:** `Nerko One`, cursive.
 - **Body font:** `Montserrat`, `Helvetica Neue`, sans-serif.
 - **YouTube video**: `https://www.youtube.com/watch?v=JVT900H6s0g`
-
-**Bonus**
-
-Create a large mobile layout (576px and above)
-
-- Make the text wrap around the image in the recipe description on mobile devices too, but only when there is enough space (starting at 576px).
-- Make the social buttons wider on larger mobile devices, starting at 576px.
 
 ## Technologies
 
