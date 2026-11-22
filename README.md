@@ -8,7 +8,7 @@ Making an existing mobile recipe website responsive for tablet and desktop scree
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| htmlcss-responsive-layout | Giallo Booleano | Exercise | CSS responsive design | 09/50 |
+| htmlcss-responsive-layout | Giallo Booleano | Exercise | CSS responsive layout & Media queries | 09/50 |
 
 ## Assignment
 
