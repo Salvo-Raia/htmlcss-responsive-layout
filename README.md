@@ -46,7 +46,7 @@ Create a large mobile layout (576px and above) and try to implement the followin
 
 - **Title font:** `Nerko One`, cursive.
 - **Body font:** `Montserrat`, `Helvetica Neue`, sans-serif.
-- **YouTube video**: `https://www.youtube.com/watch?v=JVT900H6s0g`
+- **YouTube video link:** `https://www.youtube.com/watch?v=JVT900H6s0g`
 
 ## Technologies
 
