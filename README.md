@@ -41,7 +41,7 @@ Apply the following adjustments at viewport widths above 992px.
 
 #### Bonus challenge
 
-Create a large mobile layout (viewport widths at 576px and above) and try to implement the following additional responsive behaviors.
+Create a large mobile layout for viewport widths of 576px and above, and try to implement the following additional responsive behaviors.
 
 - Make the text wrap around the image in the recipe description on mobile devices too, but only when there is enough space (starting at 576px).
 - Make the social buttons wider on larger mobile devices, starting at 576px.
