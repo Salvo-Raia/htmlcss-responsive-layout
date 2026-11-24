@@ -7,7 +7,7 @@
        se c'è spazio sufficiente, quindi a partire da 576px */
     .clearfix img {
         float:left;
-        margin: 8px 8px 0 auto;;
+        margin: 8px 8px 0 auto;
     }
 
     /* Fix 2: I bottoni social si allagano già su 
