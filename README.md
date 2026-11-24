@@ -16,7 +16,9 @@ Today we'll be working with a website in its mobile version. The client has aske
 
 Carefully inspect the website and its markup, then implement the client's requirements using the reference screenshots provided.
 
-#### Tablet layout (above 768px)
+#### Tablet layout
+
+Apply the following adjustments at viewport widths above 768px.
 
 - Align the header logo to the left.
 - Increase the padding of the main page content.
@@ -27,7 +29,9 @@ Carefully inspect the website and its markup, then implement the client's requir
 - Display the advertising banner.
 - Make the text wrap around the image in the recipe description.
 
-#### Desktop layout (above 992px)
+#### Desktop layout
+
+Apply the following adjustments at viewport widths above 992px.
 
 - Increase the recipe title font size even further.
 - Arrange the recipe information vertically again.
@@ -37,7 +41,7 @@ Carefully inspect the website and its markup, then implement the client's requir
 
 #### Bonus challenge
 
-Create a large mobile layout (576px and above) and try to implement the following additional responsive behaviors.
+Create a large mobile layout (viewport widths at 576px and above) and try to implement the following additional responsive behaviors.
 
 - Make the text wrap around the image in the recipe description on mobile devices too, but only when there is enough space (starting at 576px).
 - Make the social buttons wider on larger mobile devices, starting at 576px.
