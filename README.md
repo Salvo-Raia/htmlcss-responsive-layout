@@ -18,7 +18,7 @@ Carefully inspect the website and its markup, then implement the client's requir
 
 #### Tablet layout
 
-Apply the following adjustments at viewport widths above 768px.
+Apply the following adjustments at viewport widths of 768px and above.
 
 - Align the header logo to the left.
 - Increase the padding of the main page content.
@@ -31,7 +31,7 @@ Apply the following adjustments at viewport widths above 768px.
 
 #### Desktop layout
 
-Apply the following adjustments at viewport widths above 992px.
+Apply the following adjustments at viewport widths of 992px and above.
 
 - Increase the recipe title font size even further.
 - Arrange the recipe information vertically again.
