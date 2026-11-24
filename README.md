@@ -50,7 +50,7 @@ Create a large mobile layout for viewport widths of 576px and above, and try to 
 
 - **Title font:** `Nerko One`, cursive.
 - **Body font:** `Montserrat`, `Helvetica Neue`, sans-serif.
-- **YouTube video link:** `https://www.youtube.com/watch?v=JVT900H6s0g`
+- [YouTube recipe video](https://www.youtube.com/watch?v=JVT900H6s0g)
 
 ## Technologies
 
